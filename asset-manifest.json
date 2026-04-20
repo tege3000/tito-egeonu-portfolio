@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tito-egeonu-portfolio/static/css/main.31fed994.css",
-    "main.js": "/tito-egeonu-portfolio/static/js/main.76fea557.js",
+    "main.js": "/tito-egeonu-portfolio/static/js/main.d53a894c.js",
     "index.html": "/tito-egeonu-portfolio/index.html",
     "main.31fed994.css.map": "/tito-egeonu-portfolio/static/css/main.31fed994.css.map",
-    "main.76fea557.js.map": "/tito-egeonu-portfolio/static/js/main.76fea557.js.map"
+    "main.d53a894c.js.map": "/tito-egeonu-portfolio/static/js/main.d53a894c.js.map"
   },
   "entrypoints": [
     "static/css/main.31fed994.css",
-    "static/js/main.76fea557.js"
+    "static/js/main.d53a894c.js"
   ]
 }
