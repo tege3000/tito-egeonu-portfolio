@@ -1,4 +1,6 @@
 import { useState } from "react";
+import { Helmet } from "react-helmet";
+
 import ScoreBar from "./components/ScoreBar";
 import TitleScreen from "./components/TitleScreen";
 import SkillsScreen from "./components/Skills";
@@ -18,6 +20,10 @@ function App() {
 
   return (
     <div id="root">
+      <Helmet>
+        <title>Tito Egeonu Portfolio</title>
+      </Helmet>
+
       <ScoreBar score={score} />
 
       {screen === "title" && <TitleScreen go={navigate} />}

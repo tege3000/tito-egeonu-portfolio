@@ -16,7 +16,7 @@ function TitleScreen({ go, score = 2450 }) {
         </h1>
 
         <p className="text-cyan-400 text-[9px] tracking-widest">
-          BACK END DEVELOPER
+          FULL STACK DEVELOPER
         </p>
 
         <p className="text-gray-500 text-[7px] tracking-widest mb-8">
