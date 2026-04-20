@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tito-egeonu-portfolio/static/css/main.31fed994.css",
+    "main.js": "/tito-egeonu-portfolio/static/js/main.76fea557.js",
+    "index.html": "/tito-egeonu-portfolio/index.html",
+    "main.31fed994.css.map": "/tito-egeonu-portfolio/static/css/main.31fed994.css.map",
+    "main.76fea557.js.map": "/tito-egeonu-portfolio/static/js/main.76fea557.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31fed994.css",
+    "static/js/main.76fea557.js"
+  ]
+}
